@@ -1,0 +1,12 @@
+# DSH harness runtime logs (per-session, not source)
+vmx-stdout.txt
+vmx-stderr.txt
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
